@@ -1,0 +1,21 @@
+* {
+  color: black;
+}
+
+.game {
+  border: 1px solid black;
+  height: 486px;
+  width: 486px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  border: 1px solid red;
+  width: 160px;
+  height: 160px;
+}
+
+.mole {
+  background-color: greenyellow;
+}
